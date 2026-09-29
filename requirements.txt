@@ -2,3 +2,10 @@ pandas
 requests
 world_bank_data
 numpy
+scikit-learn
+matplotlib
+seaborn
+dash
+dash-bootstrap-components
+plotly
+dash-iconify
