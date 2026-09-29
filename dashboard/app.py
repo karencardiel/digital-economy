@@ -49,6 +49,7 @@ COLORS = {
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
 app.title = "HealthTech Digital Readiness"
+server = app.server  # Necesario para deployment (Render/Gunicorn)
 
 def icon(name, color=COLORS["text_muted"], size=20):
     return DashIconify(icon=name, color=color, width=size, height=size, className="me-2")
