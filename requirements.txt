@@ -1,3 +1,4 @@
 pandas
 requests
 world_bank_data
+numpy

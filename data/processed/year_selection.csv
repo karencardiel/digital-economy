@@ -1,0 +1,8 @@
+﻿indicator_id,nombre,year_used,criterio,paises_sin_dato,rezago_max_vs_objetivo,estado
+IND_01,Fixed broadband subscriptions (per 100 people),2024,año objetivo común a los 5 países,-,0,OK
+IND_02,4G mobile network coverage (% of population),2024,año objetivo común a los 5 países,-,0,OK
+IND_03,Individuals using the Internet (% of population),2024,año objetivo común a los 5 países,-,0,OK
+IND_04,Mobile broadband basket (% of GNI per capita),2024,año objetivo común a los 5 países,-,0,OK
+IND_05,ICT goods exports (% of total goods exports),2024,año objetivo común a los 5 países,-,0,OK
+IND_06,Digitally deliverable services (% of total trade in services),2024,año objetivo común a los 5 países,-,0,OK
+IND_08,Research and development expenditure (% of GDP),2020-2024,sin año común dentro de la tolerancia: años mezclados,-,4,AVISO: años mezclados

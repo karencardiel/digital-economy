@@ -1,0 +1,17 @@
+﻿variable,nombre_indicador,indicador_id,definicion,unidad,categoria,sentido,fuente
+IND_01,Fixed broadband subscriptions (per 100 people),IND_01,Suscripciones a banda ancha fija por cada 100 habitantes.,Por cada 100 hab,Infraestructura,mayor es mejor,World Bank (WDI)
+IND_02,4G mobile network coverage (% of population),IND_02,Porcentaje de la población cubierta por red móvil 4G.,% población,Infraestructura,mayor es mejor,ITU DataHub
+IND_03,Individuals using the Internet (% of population),IND_03,Porcentaje de la población que usó internet en los últimos 3 meses.,% población,Acceso / Uso,mayor es mejor,World Bank (WDI)
+IND_04,Mobile broadband basket (% of GNI per capita),IND_04,Costo de la canasta de banda ancha móvil como % del INB per cápita.,% GNI per capita,Calidad / Asequibilidad,menor es mejor (inverso),ITU DataHub
+IND_05,ICT goods exports (% of total goods exports),IND_05,Exportaciones de bienes TIC como % del total de exportaciones de bienes.,% exportaciones de bienes,Actividad económica digital,mayor es mejor,World Bank (WDI) / UNCTADstat
+IND_06,Digitally deliverable services (% of total trade in services),IND_06,"Servicios digitalmente entregables como % del comercio total de servicios (confirmar en el archivo de UNCTADstat si es exportación, importación o total).",% del comercio de servicios,Actividad económica digital,mayor es mejor,UNCTADstat
+IND_07,"Patent applications, residents (per million inhabitants)",IND_07,Solicitudes de patente de residentes por millón de habitantes.,Solicitudes por millón de hab,Capacidad tecnológica / Innovación,mayor es mejor,World Bank (WDI) / WIPO
+IND_08,Research and development expenditure (% of GDP),IND_08,Gasto en investigación y desarrollo como % del PIB.,% del PIB,Capacidad tecnológica / Innovación,mayor es mejor,World Bank (WDI)
+IND_01_year,Fixed broadband subscriptions (per 100 people),IND_01,Año de observación de IND_01,año,Metadato,n/a,World Bank (WDI)
+IND_02_year,4G mobile network coverage (% of population),IND_02,Año de observación de IND_02,año,Metadato,n/a,ITU DataHub
+IND_03_year,Individuals using the Internet (% of population),IND_03,Año de observación de IND_03,año,Metadato,n/a,World Bank (WDI)
+IND_04_year,Mobile broadband basket (% of GNI per capita),IND_04,Año de observación de IND_04,año,Metadato,n/a,ITU DataHub
+IND_05_year,ICT goods exports (% of total goods exports),IND_05,Año de observación de IND_05,año,Metadato,n/a,World Bank (WDI) / UNCTADstat
+IND_06_year,Digitally deliverable services (% of total trade in services),IND_06,Año de observación de IND_06,año,Metadato,n/a,UNCTADstat
+IND_07_year,"Patent applications, residents (per million inhabitants)",IND_07,Año de observación de IND_07,año,Metadato,n/a,World Bank (WDI) / WIPO
+IND_08_year,Research and development expenditure (% of GDP),IND_08,Año de observación de IND_08,año,Metadato,n/a,World Bank (WDI)
