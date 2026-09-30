@@ -6,7 +6,7 @@ The analysis integrates 8 digital economy indicators, calculates a **Digital Rea
 
 ## Repository
 
-https://digital-economy-team2-health.onrender.com
+[Ver la aplicación](https://digital-economy-team2-health.onrender.com)
 
 <img width="1409" height="764" alt="Screenshot 2026-09-29 at 11 10 48 p m" src="https://github.com/user-attachments/assets/afb2e61a-fc32-4ca0-9a9e-7ff9446df370" />
 
