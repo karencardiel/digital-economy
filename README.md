@@ -1,10 +1,12 @@
-# Digital Economy Intelligence
-
-## Overview
+# <img src="https://slackmojis.com/emojis/61381-dashboard/download" alt="Dashboard" width="40">  Digital Economy Intelligence
 
 This project analyzes the digital readiness of **Mexico, the United Kingdom, Estonia, Chile, and Colombia** using data from the World Bank, ITU, and UNCTADstat.
 
 The analysis integrates 8 digital economy indicators, calculates a **Digital Readiness Score (DRS)**, and uses **K-Means clustering** to identify similar digital profiles.
+
+## Repository
+
+https://digital-economy-team2-health.onrender.com
 
 ## Analysis
 
