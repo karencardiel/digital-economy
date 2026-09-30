@@ -66,6 +66,3 @@ Digital_Economy/
 ## Team
 
 **Team 2 – Digital Economy**
-
-Universidad Politécnica de Yucatán
-Digital Economy Intelligence Lab
